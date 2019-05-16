@@ -1,0 +1,4 @@
+## - Rebrandly API -
+
+XMLHttpRequest() POST
+
